@@ -325,5 +325,9 @@ font-size: 16px;
 font-size: 16px;
 
 color: #ffffff;
+transition:.5s all ease-in-out ;
 }
+.footer_part2 p :hover{
+color: #fcdb00;
+    }
 /* footer end  */
